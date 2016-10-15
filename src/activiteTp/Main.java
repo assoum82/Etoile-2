@@ -20,3 +20,4 @@ public class Main {
 
     }
 }
+/*faire varier le nombre de lignes */
